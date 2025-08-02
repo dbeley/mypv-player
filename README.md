@@ -16,10 +16,10 @@ go run .
 - Type a query and press **Enter** to search YouTube.
 - **Enter** on a result plays the video.
 - Press **a** on a result to add it to the queue.
-- **q** shows the current queue.
-- **s** shows latest videos from subscriptions.
-- **m** opens the subscription manager; **a** adds a channel URL.
-- **t** toggles audio-only playback.
+- **Ctrl+q** shows the current queue.
+- **Ctrl+s** shows latest videos from subscriptions.
+- **Ctrl+m** opens the subscription manager; **a** adds a channel URL.
+- **Ctrl+t** toggles audio-only playback.
 - **Esc** quits or returns to the previous screen.
 
 The development environment can be bootstrapped with `nix-shell` and
